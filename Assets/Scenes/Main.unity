@@ -1565,7 +1565,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9abb00680b7cf45409159dd271083fe5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hazard: {fileID: 1050418403201556, guid: 140ff8f2c7a3076448fd17096c977794, type: 2}
+  hazards:
+  - {fileID: 1050418403201556, guid: 140ff8f2c7a3076448fd17096c977794, type: 2}
+  - {fileID: 1383313548854722, guid: 890841ca0eb156f4fa67d3b98caaa266, type: 2}
+  - {fileID: 1136500282162862, guid: 3ff6bebd133b7f549ac48532e2cc88b3, type: 2}
   spawnValues: {x: 3.7, y: 0, z: 6}
   hazardCount: 10
   spawnWait: 0.5
