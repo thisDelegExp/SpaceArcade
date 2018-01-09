@@ -1,5 +1,5 @@
 # SpaceArcade
-Made some simple shooter game from scratch for studying purposes./n
+Made some simple shooter game from scratch for studying purposes.\n
 Controls:
 W,↑ -fly forward;
 S,↓ -fly backward;
